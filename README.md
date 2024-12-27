@@ -1,11 +1,14 @@
 # STM32F103CBT6 PlatformIO Debug Instructions
 
-## KYGM 12/27/24
-
 **Introduction**
 
 This document describes how to debug on the STM32F103CBT6 (herinafter called STM32)
 using PlatformIO in Visual Studio Code
+
+**Materials List**
+
+- STM32 (Clone will work too)
+- ST-LINK-V2 (Ebay clone)
 
 **Useful References**
 
